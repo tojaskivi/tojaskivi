@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hallå där! 👋
 
 🔭 I’m currently working on my Web Development degree at MIUN  
 🌱 I’m currently learning Vue.js, React and SASS  
